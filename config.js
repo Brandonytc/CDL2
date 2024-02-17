@@ -122,7 +122,7 @@ var config = {
         },
         {
             id: 'fourth-chapter',
-            alignment: 'fully',
+            alignment: 'right',
             hidden: false,
             title: 'Lets take a closer look at Clementi library:',
             image: './images/library2.webp',
